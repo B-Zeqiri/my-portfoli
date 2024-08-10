@@ -5,15 +5,15 @@ import HomePage from './pages/HomePage';
 import ProjectsPage from './pages/ProjectsPage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContanctPage';
-import { GlobalStyle } from './styles/GlobalStyle'; // Import GlobalStyle
+import { GlobalStyle } from './styles/GlobalStyle';
 
 function App() {
   return (
-    <Router>
-      <GlobalStyle /> {/* Apply GlobalStyle */}
+    <Router basename="/my-portfoli">
+      <GlobalStyle /> 
       <Header />
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/my-portfoli" element={<HomePage />} />
         <Route path="/projects" element={<ProjectsPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
