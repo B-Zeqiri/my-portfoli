@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfoli/static/css/main.cb5ad26c.css",
-    "main.js": "/my-portfoli/static/js/main.a685de4e.js",
+    "main.js": "/my-portfoli/static/js/main.381dcfba.js",
     "static/js/453.41811d64.chunk.js": "/my-portfoli/static/js/453.41811d64.chunk.js",
     "static/media/florian-klauer-mk7D-4UCfmg-unsplash.jpg": "/my-portfoli/static/media/florian-klauer-mk7D-4UCfmg-unsplash.84a0ec7d0737c44f4b98.jpg",
     "static/media/clayton-malquist-KVCN2hMTk1E-unsplash.jpg": "/my-portfoli/static/media/clayton-malquist-KVCN2hMTk1E-unsplash.fad778f8f8b4682023df.jpg",
@@ -43,11 +43,11 @@
     "static/media/notebook2.jpeg": "/my-portfoli/static/media/notebook2.33e1a4b47cb0edb64665.jpeg",
     "index.html": "/my-portfoli/index.html",
     "main.cb5ad26c.css.map": "/my-portfoli/static/css/main.cb5ad26c.css.map",
-    "main.a685de4e.js.map": "/my-portfoli/static/js/main.a685de4e.js.map",
+    "main.381dcfba.js.map": "/my-portfoli/static/js/main.381dcfba.js.map",
     "453.41811d64.chunk.js.map": "/my-portfoli/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb5ad26c.css",
-    "static/js/main.a685de4e.js"
+    "static/js/main.381dcfba.js"
   ]
 }
