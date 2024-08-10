@@ -5,11 +5,11 @@ import HomePage from './pages/HomePage';
 import ProjectsPage from './pages/ProjectsPage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContanctPage';
-import { GlobalStyle } from './styles/GlobalStyle';
+import { GlobalStyle } from './styles/GlobalStyle'; // Import GlobalStyle
 
 function App() {
   return (
-    <Router basename="/my-portfoli">
+    <Router >
       <GlobalStyle /> 
       <Header />
       <Routes>
