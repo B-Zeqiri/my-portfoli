@@ -13,7 +13,7 @@ function App() {
       <GlobalStyle /> 
       <Header />
       <Routes>
-        <Route path="/my-portfoli" element={<HomePage />} />
+        <Route path="/" element={<HomePage />} />
         <Route path="/projects" element={<ProjectsPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
